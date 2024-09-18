@@ -5,7 +5,6 @@
   "description": "AutoSave is a simple Unity package that automatically saves your scene and project files at a set interval.",
   "unity": "2021.3",
   "dependencies": {
-
   },
   "keywords": [
     "Unity",

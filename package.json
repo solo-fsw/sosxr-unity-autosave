@@ -1,0 +1,19 @@
+{
+  "name": "com.tarodev.autosave",
+  "version": "1.0.0",
+  "displayName": "AutoSave",
+  "description": "AutoSave is a simple Unity package that automatically saves your scene and project files at a set interval.",
+  "unity": "2021.3",
+  "dependencies": {
+
+  },
+  "keywords": [
+    "Unity",
+    "Editor",
+    "AutoSave"
+  ],
+  "author": {
+    "name": "Tarodev",
+    "url": "https://www.youtube.com/watch?v=q0ZDlhPs8mU"
+  }
+}
